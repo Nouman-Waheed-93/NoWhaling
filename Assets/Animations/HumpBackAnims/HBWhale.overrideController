@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: HBWhale
+  m_Controller: {fileID: 9100000, guid: bbc226753cdf2434591cb67e116a07f5, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 9084cf0657d78cd40a89a777607f1120, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: c1373e75b17a7384c8de20afa90f11f1, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 5b87ff672f9cda745982cf70ab568e40, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 97d8eaebda89d5946877c8e73b62949b, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 8dcaefe6b893c374f9505b7a449182f5, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 1545d6cf4bd765448b1025e3837d6d88, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 0449f055b300d70429e081c47ca3eadb, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 5f38e26c49e1c2a4091fe7fddb8515a3, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 8a3ae89722b1d1947b7be06f8517f574, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 6e790a60f1ba45346a522697bbec3105, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 0b8229ba61b7dda41a7850b466958aa5, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 842b851187009d847a6d08bfce5774b1, type: 2}

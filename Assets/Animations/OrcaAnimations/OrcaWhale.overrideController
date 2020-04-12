@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: OrcaWhale
+  m_Controller: {fileID: 9100000, guid: bbc226753cdf2434591cb67e116a07f5, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 9084cf0657d78cd40a89a777607f1120, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 0317a410a3a05ba4d963e56fbb33b5e8, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 5b87ff672f9cda745982cf70ab568e40, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: d60b9814733a189428286789693b5610, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 8dcaefe6b893c374f9505b7a449182f5, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 0975eae5352d1f849b54338eff691d5c, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 0449f055b300d70429e081c47ca3eadb, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 5a1871f623e800148af3fb92e9dba46f, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 8a3ae89722b1d1947b7be06f8517f574, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 39a832108da4f114582bb4a9f3a918df, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 0b8229ba61b7dda41a7850b466958aa5, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 642b5ceb3d7400e46ad0ccc00287c221, type: 2}
